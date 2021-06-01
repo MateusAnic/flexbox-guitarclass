@@ -1,5 +1,6 @@
 # Floxbox GuitarClass
  <h1>Landing de loja ficticia criado com puro flexbox.</h1>
+ Tecnologias : HTML5, CSS3;
  
  ![gt-img1](https://user-images.githubusercontent.com/56458098/120382324-e1733080-c2f9-11eb-88a0-1d778279b505.jpg)
  ![gt-img2](https://user-images.githubusercontent.com/56458098/120382325-e20bc700-c2f9-11eb-87f2-2bf07adb83df.jpg)
