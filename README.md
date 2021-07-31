@@ -1,4 +1,4 @@
-# Floxbox GuitarClass
+# Flexbox GuitarClass
  <h1>Landing de loja ficticia criado com puro flexbox.</h1>
  Tecnologias : HTML5, CSS3;
  
